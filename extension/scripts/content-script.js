@@ -1,7 +1,8 @@
 /* global chrome, io */
 (function () {
   // change to your server url
-  const SERVER_URL = 'http://localhost:2525'
+  // const SERVER_URL = 'http://localhost:2525'
+  const SERVER_URL = 'https://nikoniko-presentation.herokuapp.com'
   const APP_ID = chrome.runtime.id
   const APP_VERSION = chrome.runtime.getManifest().version
 
