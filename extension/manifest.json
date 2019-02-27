@@ -1,21 +1,21 @@
 {
   "manifest_version": 2,
-  "name": "NicoNico SPEENYA",
-  "version": "0.0.3",
+  "name": "おかんのニコニコプレゼン",
+  "version": "0.0.1",
   "description": "The niconico method for Google Chrome",
 
   "icons": {
-    "16": "icons/icon16.png",
-    "48": "icons/icon48.png",
-    "128": "icons/icon128.png"
+    "16": "icons/tere_okanchan16.png",
+    "48": "icons/tere_okanchan48.png",
+    "128": "icons/tere_okanchan128.png"
   },
 
   "browser_action":  {
     "default_icon": {
-      "19":"icons/icon19.png",
-      "38":"icons/icon38.png"
+      "19":"icons/tere_okanchan19.png",
+      "38":"icons/tere_okanchan38.png"
     },
-    "default_title": "NicoNico SPEENYA"
+    "default_title": "おかんのニコニコプレゼン"
   },
 
   "background": {
