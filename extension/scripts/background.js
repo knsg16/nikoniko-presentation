@@ -27,8 +27,8 @@
     if (enabled) {
       const details = {
         path: {
-          '19': 'icons/icon19.png',
-          '38': 'icons/icon38.png'
+          '19': 'icons/tere_okanchan19.png',
+          '38': 'icons/tere_okanchan38.png'
         }
       }
 
@@ -38,8 +38,8 @@
     } else {
       const details = {
         path: {
-          '19': 'icons/icon19_disabled.png',
-          '38': 'icons/icon38_disabled.png'
+          '19': 'icons/tere_okanchan19_disabled.png',
+          '38': 'icons/tere_okanchan38_disabled.png'
         }
       }
 
